@@ -1,4 +1,4 @@
-# Web-Technology-PHP-
+# Web-Technology-PHP-Blood bank Management System
 
 Blood Management System project with database records.
 
